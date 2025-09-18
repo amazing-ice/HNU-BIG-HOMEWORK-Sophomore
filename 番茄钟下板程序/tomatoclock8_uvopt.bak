@@ -184,7 +184,7 @@
       <Focus>0</Focus>
       <ColumnNumber>48</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>198</TopLine>
+      <TopLine>199</TopLine>
       <CurrentLine>215</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\oled.c</PathWithFileName>
@@ -214,10 +214,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>22</ColumnNumber>
+      <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>124</TopLine>
-      <CurrentLine>128</CurrentLine>
+      <TopLine>125</TopLine>
+      <CurrentLine>129</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\tomatoclock8.c</PathWithFileName>
       <FilenameWithoutPath>tomatoclock8.c</FilenameWithoutPath>
