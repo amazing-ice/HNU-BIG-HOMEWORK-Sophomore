@@ -1,0 +1,6 @@
+"STARTUP.obj",
+"oled.obj",
+"tomatoclock8.obj",
+".\source\STCBSP_V3.6b.LIB" 
+TO "tomatoclock8" 
+RAMSIZE(256) 
