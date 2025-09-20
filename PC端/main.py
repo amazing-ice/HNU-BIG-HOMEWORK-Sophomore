@@ -91,7 +91,7 @@ class PomodoroApp:
         self.timer_var = tk.StringVar(value="00:25:00")
         tk.Label(self.main_frame, textvariable=self.timer_var, font=self.timer_font).pack(pady=20)
         
-        tk.Label(self.main_frame, text="HNU 杜禹寰 向望 谢滨冰", font=("Microsoft YaHei", 10), fg="darkblue").pack(pady=10)
+        tk.Label(self.main_frame, text="HNU XXX XX XXX", font=("Microsoft YaHei", 10), fg="darkblue").pack(pady=10)
 
         # --- 任务列表界面元素 ---
         tk.Label(self.task_frame, text="今日任务列表:", font=self.status_font).pack(anchor='w', padx=10, pady=5)
